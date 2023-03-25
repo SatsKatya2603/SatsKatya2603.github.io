@@ -1,31 +1,25 @@
-body{
-    margin-top: 0;
+footer{
+    background-color: blue;
+    width: 100%;
+    height: 400px;
+    background-color: blueviolet;
     font-size: 30px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: rgba(40, 36, 48, 0.779);
-    background-image: url(fon1.gif);
-    background-size: 100%;
-}
-.h1{ 
-    background-color: rgba(0, 0, 0, 0.351);
-}
-.text1{
-    padding: 20px;
-    font-size: 20px;
-    display: inline-block;
-    margin-right: 600px;
-}
-.text2{
-    background-color: rgba(198, 189, 189, 0.523);
-    border-style: ridge;
-}
-.text3{
-    background: rgba(198, 189, 189, 0.523);
     display: flex;
-    justify-content: center;
-    border-style: dashed;
+    justify-content: right;
+    padding: 50px ;
 }
-.img1{
+body{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+#q1{
+    font-size: 50px;
+    color: rgb(45, 42, 42);
+    background-color: rgba(137, 43, 226, 0.499);
+}
+header{
     display: flex;
-    align-items: center;
+    width: 100%;
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.556);
 }
